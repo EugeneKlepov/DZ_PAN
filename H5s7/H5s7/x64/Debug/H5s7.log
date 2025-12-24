@@ -1,0 +1,3 @@
+﻿  H5s7.cpp
+D:\dzC++\H5s7\H5s7\H5s7.cpp(110,20): error C3861: popen: идентификатор не найден
+D:\dzC++\H5s7\H5s7\H5s7.cpp(122,18): error C3861: pclose: идентификатор не найден
